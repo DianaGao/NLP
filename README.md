@@ -7,3 +7,9 @@ The financial dashboard is created to support the financial stock decision base 
 ### Word cloud
 
 ### Sentiment analysis
+
+## Wireframe
+![](Wireframe.png)
+
+## High architechture diagram
+![](High%20architechture%20diagram.jpg)
