@@ -2,12 +2,14 @@
 The financial dashboard is created to support the financial stock decision base on the real time unstructured data of the relevant news article and structured stock data.  
 
 ## Components
-### Bolliger bands
+### 1. Bolliger bands
+![](Bollinger%20.png)
+### 2. Word cloud
+![](WordCloud.png)
+### 3. Sentiment analysis
 
-### Word cloud
-
-### Sentiment analysis
-
+## Dashboard demo
+![](Financial%20indicator%20dashboard.gif)
 ## Wireframe
 ![](Wireframe.png)
 
