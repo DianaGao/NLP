@@ -2,7 +2,7 @@
 The financial dashboard is created to support the financial stock decision base on the real time unstructured data of the relevant news article and structured stock data.  
 
 ## Components
-### 1. Bolliger bands
+### 1. Bollinger bands
 ![](Bollinger%20.png)
 ### 2. Word cloud
 ![](WordCloud.png)
